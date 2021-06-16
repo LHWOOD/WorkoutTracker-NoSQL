@@ -22,11 +22,11 @@ A workout tracker that utilizes a Mongo database, a Mongoose schema, and routes 
 
 ## Installation
 
-TBD
+No installations are need to view/use this application in the browser. Code replication or enhancments would require npm installs for Express, Morgan, and Mongoose.
 
 ## Usage
 
-TBD
+Launch live site via https://stormy-eyrie-06551.herokuapp.com/
 
 ## Contributing
 
@@ -34,7 +34,7 @@ Please feel free to contribute relevant features for future versions.
 
 ## Tests
 
-TBD
+No testing has been administered for the inital version of this application.
 
 ## License
 
